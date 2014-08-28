@@ -80,6 +80,8 @@ Jet Propulsion Laboratory, California Institute of Technology (JPL)
 
 * Dr. Saskia Van Manen, Open University (UK)
 
+* Dr. Alexander Lex, Harvard
+
 Datasets for the workshop will be made available publicly 
 via the Cloud to workshop participants around two-weeks prior
 to the start of the workshop. The workshop format
