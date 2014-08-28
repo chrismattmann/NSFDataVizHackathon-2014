@@ -26,11 +26,85 @@ NOAA and other Arctic/Polar related agencies. The organizing committee
 is composed by both cyberinfrastructure and polar experts, including
 participation from academia, industry, the federally funded research
 and development centers, and from the broader open source community.
-The workshop will: (1) recommend several sets of open source software
+
+The workshop will: 
+
+(1) recommend several sets of open source software
 for data and metadata processing; scientific workflow management;
-data curation; and data dissemination; (2) identify some relevant
+data curation; and data dissemination; 
+
+(2) identify some relevant
 Polar data visualization techniques and assess the needs and
-challenges of visualizing Polar datasets; (3) package, deliver, and
+challenges of visualizing Polar datasets; 
+
+(3) package, deliver, and
 make available the outcomes of the workshop via a public website;
-and (4) provide input to the NSF Polar CyberInfrastructure program
+and;
+
+(4) provide input to the NSF Polar CyberInfrastructure program
 officer through a final report.
+
+Travel support is available for around twenty-five workshop 
+participants that will be selected meritocratically based on
+interest and based on recommendations from the community. 
+
+An organizing committee for the meeting is being formed,
+with current membership listed below:
+
+* Dr. Chris Mattmann, University of Southern California & 
+Jet Propulsion Laboratory, California Institute of Technology (JPL)
+
+* Dr. Annie Bryant Burgess, University of Southern California (USC)
+
+* Dr. Suzanne Carbotte, Columbia University
+
+* Dr. Bruce Caron, New Media Research Institute
+
+* Dr. Patrick Driscoll, Aalborg University
+
+* Mr. Christopher Goranson, Parsons Institute for Information Mapping (PIIM)
+
+* Mr. Aaron Hill, Parsons New School for Public Engagement
+
+* Dr. Daniel Katz, National Science Foundation
+
+* Dr. Martin Lehmanm, Aalborg University
+
+* Dr. Alan Maceachren, Penn State University
+
+* Dr. Jonathan Pundsack, University of Minnesota Polar Geospatial Center
+
+* Dr. Marco Tedesco, National Science Foundation
+
+* Mr. Joel Towers, Parsons New School
+
+* Dr. Saskia Van Manen, Open University (UK)
+
+Datasets for the workshop will be made available publicly 
+via the Cloud to workshop participants around two-weeks prior
+to the start of the workshop. The workshop format
+will consist of a 2-day series of invited speakers in
+Polar Sciences and Cyber Infrastructure and Data Visualization
+to motivate the start of the art and challenges to the
+community. 4 interactive "hackathons" will provide the
+opportunity for workshop participants to break off into
+teams and develop novel data visualizations on the provided
+cloud datasets. Hackathon results will be shared and
+disseminated during the workshop read out and will be
+made available to the community under permissive open
+source licenses (e.g., the Apache License, version 2).
+
+Please reserve the dates in your calendars and we
+welcome your inquiries about the workshop. Please
+send email to the workshop committee at the following
+address and we will respond promptly to your inquiries.
+
+some-workshop-group-address@gmail.com
+
+Thank you!
+
+Cheers,
+Chris Mattmann
+(on behalf of the organizing committee)
+
+
