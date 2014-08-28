@@ -1,0 +1,36 @@
+Subject: Call for Participation: NSF DataViz Hackathon for Polar
+CyberInfrastructure: NYC, November 3-4, 2014
+
+The U.S. National Science Foundation is sponsoring a workshop related
+to data visualization in the Polar Sciences. The Workshop will focus
+on the bridging of the cyberinfrastructure/data visualization and
+polar communities and it is scheduled to be held in New York City
+at the Parsons New School for Design November 3-4, 2014.
+
+Improving the use and the value of existing data sets over the polar
+regions is crucial to promote science and support new discoveries.
+Ultimately, collaborations between data visualization experts and
+polar scientists will foster the understanding of the variability
+of the polar regions at different timescales, with implicit benefit
+for the society.
+
+The participants will be motivated by several public Polar datasets
+that will be acquired and made available before the starting date
+of the workshop. One of the expected outcomes is to produce high
+impact and novel prototypes and data visualizations that will be
+made available under open source licenses. Releasing the prototypes
+will allow the NSF to make longer-term investments in technologies
+and visualizations that can be adopted by the community. The workshop
+will also increase cross agency collaboration between NSF, NASA,
+NOAA and other Arctic/Polar related agencies. The organizing committee
+is composed by both cyberinfrastructure and polar experts, including
+participation from academia, industry, the federally funded research
+and development centers, and from the broader open source community.
+The workshop will: (1) recommend several sets of open source software
+for data and metadata processing; scientific workflow management;
+data curation; and data dissemination; (2) identify some relevant
+Polar data visualization techniques and assess the needs and
+challenges of visualizing Polar datasets; (3) package, deliver, and
+make available the outcomes of the workshop via a public website;
+and (4) provide input to the NSF Polar CyberInfrastructure program
+officer through a final report.
