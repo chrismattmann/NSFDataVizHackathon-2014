@@ -3,26 +3,27 @@ CyberInfrastructure: NYC, November 3-4, 2014
 
 The U.S. National Science Foundation is sponsoring a workshop related
 to data visualization in the Polar Sciences. The workshop will focus
-on bridging the cyberinfrastructure/data visualization and
-polar communities and it is scheduled to be held in New York City
-at the Parsons New School for Design November 3-4, 2014.
+on bridging the cyberinfrastructure/data visualization and polar
+communities and it is scheduled to be held in New York City at the
+Parsons New School for Design November 3-4, 2014.
 
 Improving the use and the value of existing datasets over the Polar
 Regions is crucial to promote science and support new discoveries.
 Ultimately, collaborations between data visualization experts and
-Polar scientists will foster a greater understanding of the spatiotemporal
-dynamics at play in Polar Regions and their implications to society.
+Polar scientists will foster a greater understanding of the
+spatiotemporal dynamics at play in Polar Regions and their implications
+to society.
 
 The participants will be motivated by several public Polar datasets
-that will made available before the starting date
-of the workshop. One of the expected outcomes of the workshop is to produce high
-impact novel prototypes and data visualizations that will be
-made available under open source licenses. Releasing the prototypes
-will allow the NSF to make longer-term investments in technologies
-and visualizations that can be adopted by the community. The workshop
+that will made available before the starting date of the workshop.
+One of the expected outcomes of the workshop is to produce high
+impact novel prototypes and data visualizations that will be made
+available under open source licenses. Releasing the prototypes will
+allow the NSF to make longer-term investments in technologies and
+visualizations that can be adopted by the community. The workshop
 will also increase cross agency collaboration between NSF, NASA,
-NOAA and other Polar-related agencies. The organizing committee
-is composed by both cyberinfrastructure and Polar experts, including
+NOAA and other Polar-related agencies. The organizing committee is
+composed by both cyberinfrastructure and Polar experts, including
 participation from academia, industry, federally funded research
 and development centers, and from the broader open source community.
 
