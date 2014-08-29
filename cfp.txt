@@ -2,29 +2,28 @@ Subject: Call for Participation: NSF DataViz Hackathon for Polar
 CyberInfrastructure: NYC, November 3-4, 2014
 
 The U.S. National Science Foundation is sponsoring a workshop related
-to data visualization in the Polar Sciences. The Workshop will focus
-on the bridging of the cyberinfrastructure/data visualization and
+to data visualization in the Polar Sciences. The workshop will focus
+on bridging the cyberinfrastructure/data visualization and
 polar communities and it is scheduled to be held in New York City
 at the Parsons New School for Design November 3-4, 2014.
 
-Improving the use and the value of existing data sets over the polar
-regions is crucial to promote science and support new discoveries.
+Improving the use and the value of existing datasets over the Polar
+Regions is crucial to promote science and support new discoveries.
 Ultimately, collaborations between data visualization experts and
-polar scientists will foster the understanding of the variability
-of the polar regions at different timescales, with implicit benefit
-for the society.
+Polar scientists will foster a greater understanding of the spatiotemporal
+dynamics at play in Polar Regions and their implications to society.
 
 The participants will be motivated by several public Polar datasets
-that will be acquired and made available before the starting date
-of the workshop. One of the expected outcomes is to produce high
-impact and novel prototypes and data visualizations that will be
+that will made available before the starting date
+of the workshop. One of the expected outcomes of the workshop is to produce high
+impact novel prototypes and data visualizations that will be
 made available under open source licenses. Releasing the prototypes
 will allow the NSF to make longer-term investments in technologies
 and visualizations that can be adopted by the community. The workshop
 will also increase cross agency collaboration between NSF, NASA,
-NOAA and other Arctic/Polar related agencies. The organizing committee
-is composed by both cyberinfrastructure and polar experts, including
-participation from academia, industry, the federally funded research
+NOAA and other Polar-related agencies. The organizing committee
+is composed by both cyberinfrastructure and Polar experts, including
+participation from academia, industry, federally funded research
 and development centers, and from the broader open source community.
 
 The workshop will: 
@@ -52,9 +51,9 @@ An organizing committee for the meeting is being formed,
 with current membership listed below:
 
 * Dr. Chris Mattmann, University of Southern California & 
-Jet Propulsion Laboratory, California Institute of Technology (JPL)
+Jet Propulsion Laboratory, California Institute of Technology 
 
-* Dr. Annie Bryant Burgess, University of Southern California (USC)
+* Dr. Annie Bryant Burgess, University of Southern California 
 
 * Dr. Suzanne Carbotte, Columbia University
 
@@ -62,7 +61,7 @@ Jet Propulsion Laboratory, California Institute of Technology (JPL)
 
 * Dr. Patrick Driscoll, Aalborg University
 
-* Mr. Christopher Goranson, Parsons Institute for Information Mapping (PIIM)
+* Mr. Christopher Goranson, Parsons Institute for Information Mapping 
 
 * Mr. Aaron Hill, Parsons New School for Public Engagement
 
@@ -78,20 +77,20 @@ Jet Propulsion Laboratory, California Institute of Technology (JPL)
 
 * Mr. Joel Towers, Parsons New School
 
-* Dr. Saskia Van Manen, Open University (UK)
+* Dr. Saskia Van Manen, Open University 
 
 * Dr. Alexander Lex, Harvard
 
-Datasets for the workshop will be made available publicly 
+Datasets for the workshop will be made publicly available
 via the Cloud to workshop participants around two-weeks prior
 to the start of the workshop. The workshop format
 will consist of a 2-day series of invited speakers in
-Polar Sciences and Cyber Infrastructure and Data Visualization
+Polar Sciences and CyberInfrastructure and Data Visualization
 to motivate the start of the art and challenges to the
-community. 4 interactive "hackathons" will provide the
+community. Four interactive "hackathons" will provide the
 opportunity for workshop participants to break off into
 teams and develop novel data visualizations on the provided
-cloud datasets. Hackathon results will be shared and
+Cloud datasets. Hackathon results will be shared and
 disseminated during the workshop read out and will be
 made available to the community under permissive open
 source licenses (e.g., the Apache License, version 2).
@@ -101,7 +100,7 @@ welcome your inquiries about the workshop. Please
 send email to the workshop committee at the following
 address and we will respond promptly to your inquiries.
 
-some-workshop-group-address@gmail.com
+nsfdatavis@gmail.com
 
 Thank you!
 
