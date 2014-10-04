@@ -10,6 +10,7 @@ The organization of this tree is as follows:
 * cfp - Call for Papers
 * logistics - logistical information about the venue, participatoin stats, etc.
 * site - A sub-module link to the website at http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/
+* programcommittee - Info about the Program Committee for the Hackathon.
 
 Tweeting and Social Media
 ===
