@@ -1,0 +1,100 @@
+Dear Interested Participant,
+
+You have been selected to attend the NSF DataViz Hackathon for Polar
+CyberInfrastructure after expressing interest in the event.
+
+Congratulations and thank you for your interest!
+
+We are in the process of putting up a website right now, via Github.
+You can find the website here:
+
+http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/
+
+The Github Source for the website is here:
+
+https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/
+
+In the coming week you will see more and more information pop up
+on that website, for now please find the following logistical
+information:
+
+1. The workshop will take place in New York City, New York on Monday
+November 3, 2014 and Tuesday November 4, 2014.
+
+2. The workshop will take an "unconference"² and "hackathon" style
+to it, much like the recent Open Science Codefest (also sponsored
+by NSF). See here: http://nceas.github.io/open-science-codefest/
+
+In this vein, we are asking participants to help create "sessions"
+as Github issues (please register for Github as we will be tracking
+all of our conference information there). Each issue that you create
+here: https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/
+
+will become a "session" on the website  for the event. Use the
+issues as means for data preparation, for discussing and collaborating
+ahead of time for the event amongst your peers, and for planning
+on what data, visualizations, code and other fun stuff you will be
+working on at the hackathon. We will spend some time in the beginning
+of the meeting going through all of the proposed hackathon sessions,
+and organizing and potentially collating similar ones, and pairing
+them down to a manageable set to work on. Note that if you are
+proposing sessions that involve specific data, we expect you to
+show up to the meeting with a data brick or with some example to
+share/host with others you are working with at the meeting.
+
+3. The meeting place will be: 11/3 and 11/4 (9am - 4:30pm both days)
+Parsons New School Orozco Room, Alvin Johnson/J.M. Kaplan Hall 66
+West 12th Street, Room A712, New York, NY 10011
+
+Some images of the meeting location are here:
+http://www.newschool.edu/leadership/provost/artcollection/new-school-murals/ 
+http://www.newschool.edu/ofb/businessoperations/subpage2.aspx?id=51095
+
+4. If you requested travel participation we will email you
+
+separately to confirm your request and to work details out with
+you.  Costs will be reimbursed for Flights up to $680 dollars per
+participant and hotel costs up to $285/night for 2 nights in NYC
+area. We are working with NSF to obtain a limited amount of additional
+travel support and we will keep everyone posted on that (that
+requested it).
+
+5. Please note that our goal is to create amazing visualizations
+of data relevant to the Polar community and to the Polar
+CyberInfrastructure community.  So, any data prep that can be done
+ahead of time is most valuable. Please use Github to coordinate and
+the existing shared repository. We will be collecting the code and
+visualizations generated during the workshop and asking participants
+to license their code and visualizations under the Apache 2 Software
+License (³ALv2²). You can find a copy of the ALv2 here:
+http://www.apache.org/licenses/LICENSE-2.0.html This will allow the
+most reuse of the output of the workshop and the
+
+ability for folks to reproduce the work and to share the visualizations
+and data generated. This workshop includes invites (your peers)
+that are Cyber Infrastructure, Polar Scientists, Data Visualization
+experts, data processing experts, Remote Sensing and GIS experts,
+Urban Planning, and a host of other talents that I¹m sure we don¹t
+even know about yet.  Please begin collaborating on Github and
+working together so that we can make this an awesome event and
+generate some real value to the NSF and to the community. The work
+you perform here will have a large impact on community.
+
+6. Some prep work is already underway (if you scour the Open Science
+Codefest site you will find some) to prepare some datasets of
+relevance to the Polar community. We will provide some of this
+prepared data to interested parties ahead of the workshop in the
+next few weeks in case folks want to start hacking early. We will
+tweet under the hash tag:
+
+#nsfpolardatavis
+
+So please feel free to start chatting and getting the buzz going!
+
+Thank you all and apologies for the delay in getting this out. We
+expect to have frequent updates coming in the following weeks and
+look forward to working with you all to make this an amazing event!
+
+Cheers, 
+Chris Mattmann 
+(on behalf of the organizing committee)
