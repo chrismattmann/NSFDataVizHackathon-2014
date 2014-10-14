@@ -11,7 +11,7 @@ Jet Propulsion Laboratory, California Institute of Technology
 
 * [Mr. Christopher Goranson](christopher.goranson@gsa.gov), Parsons Institute for Information Mapping
 
-* [Mr. Aaron Hill](hilla372@newschool.edu), Parsons New School for Public Engagement
+* [Mr. Aaron Hill](hillar@newschool.edu), Parsons The New School for Design
 
 * [Dr. Daniel Katz](dkatz@nsf.gov), National Science Foundation
 
@@ -23,7 +23,7 @@ Jet Propulsion Laboratory, California Institute of Technology
 
 * [Dr. Marco Tedesco](mtedesco@nsf.gov), National Science Foundation
 
-* [Mr. Joel Towers](TowersJ@newschool.edu), Parsons New School
+* [Mr. Joel Towers](TowersJ@newschool.edu), Parsons The New School for Design
 
 * [Dr. Saskia Van Manen](saskia.vanmanen@open.ac.uk), Open University
 
