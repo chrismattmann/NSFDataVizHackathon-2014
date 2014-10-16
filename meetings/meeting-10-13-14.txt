@@ -1,0 +1,102 @@
+NSF Polar DataViz Hackathon
+
+
+Notes from 10/13/2014 
+
+Modular setup [Katie]
+Cost list for breakfast and lunch [Katie] - will send by 10/16 (Update this is costed under PIIM contract)
+Logistical information (hotel and airfare) - completed [Mattmann]
+Draft email for participant support [Mattmann] - due 10/13
+Daisy to help potential per diem [Mattmann] on extra grant [Mattmann]
+Fly America Act check in for international participants [Marco, Mattmann]
+Up travel support to gsa per diem to $304 for lodging [Mattmann]
+Publish a participant list [Ramirez] - due 10/15
+Need instructions on how to add a session [Lewis] - due 10/15
+Participant Mailing List [pramirez] - due 10/14
+Push these actions onto GitHub [pramirez] - due 10/14
+Participant Community Updates Weekly [lewis] 
+Expand Community Outreach [lewis]
+Potential for Streaming the Event [Katie] - will update by 10/16
+Meeting on Thursday - (twice weekly) [Mattmann]
+
+
+Is there a way to log in virtually? [Marco]
+
+
+Notes from 10/8/2014
+
+1. a local hotel that we can negotiate a group rate with, and
+perhaps a group master bill for the participants
+ - backup hotels and recommendations to participants for those
+that aren’t receiving support [Daisy, Mai, Katie] - due 10/10
+
+2. the results of that information we need to put on the website,
+CC to Mazi here - (Repeated below)
+
+3. Chris needs information to provide the participants who requested
+travel support RE: their flights - do we have a preferred airline,
+a preferred travel agent - should they book their own flights and
+we reimburse, etc etc [Daisy, Mai, Katie] - due 10/10
+
+- Katie is working on the local hotel and I think mentioned that
+she would have more info by next week, but what I need is you
+guys to coordinate since USC has the $$$ and will need to set
+up a master bill with the preferred hotel.
+
+- Also, I need folks to help Bernadica today as well we need to
+send Parsons the $$$ so we can begin to work the meals (I would
+like lunch provided on both days, and if possible, dinner) so
+we need to get Parsons that $10k.
+
+Thanks,
+Paul Ramirez
+ 
+
+Here are some notes and action items from yesterday (Completing my first action item). I've added a few so please read carefully. I put in some target dates for things but feel free to update. Most are there to prioritize and reflect dependencies:
+
+Room is settled on and fits 50 seated
+Arrange time to scope space [Katie] - due 10/10
+(Katie, Tyler & Saskia scoping space on 10/17 @ 10am)
+Scope space and finalize details (seating arrangement, power constraints, registration location, etc.) [Katie & Tyler] - due 10/24
+Catering (50 people)
+Cost list sent to JPL for food [Katie] - due 10/10
+Refreshments all day (Water, Coffee, Tea) 
+Morning snack for each day
+Lunch for each day
+Decide small (snacks) or big (meals) each day [Mattmann] - due 10/13
+Rough Agenda [Shakeh] - due 10/13
+Will be checked by team and iterated on later [Mattmann] - due 10/17
+Registration Table
+Manned by Katie and Paul
+Gather checkin supplies (Badges) [Katie] - due 10/24
+Come up with information handout (wifi, locations to eat, network details, etc.) [Shakeh/Katie] - due 10/24
+Start a google doc to iterate on this
+Accommodations
+Scope prior PIIM arrangements with hotels through PIIM [Katie] - due 10/13
+(TNS Travel Department will make arrangements w/travelers. Info provided ASAP)
+Find 3 recommend hotels [Jihoon/Katie] - due 10/13
+Website updates this can be done by all but connect with Mazi if you need help. Regardless Mazi you will be the point to connect with folks to get their details on the website.  https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/
+Hotel Information [Mazi] - due 10/13
+PIIM map and parking/walking/transit details [Jihoon/Mazi] - due 10/17
+Updates per Chris' email [Mazi] - due 10/10  https://github.com/chrismattmann/NSFDataVizHackathon-2014
+Agenda [Mazi/Shakeh] - due 10/17
+Navigation banner [Mazi] - due 10/10
+Session Submission - deadline one week before but will slide to encourage folks to pay attention
+Send out announcement encouraging to submit by (due one week before) and follow on twitter [Mattmann] - due 10/13
+Extend session submission till a day before another announcement [Mattmann]
+We should encourage tweeting out on the hashtag when there is a submission added
+Collaborative Materials
+Whiteboards, papers on easels, markers arranged [Katie] - due 10/17
+Can request easels w/room set-up request - once overall participant number is more solidified, I will order supplies
+First Night Dinner
+35 people at Italian place that is paid by attendees themselves via a card based system [Katie] - due 10/13
+Semi-private space being held at: Vapiano 
+Address: 
+113 University Place (corner of 13th Street)
+New York, NY 10003
+If the above fall through scope something at the University [Katie/Jihoon] - due 10/17
+Subcontract
+See Bernardica's email
+Keynote
+Flush out details [Mattmann] - due 10/13
+
