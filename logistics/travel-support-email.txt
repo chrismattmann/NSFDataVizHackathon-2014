@@ -2,24 +2,73 @@ Dear <Participant>,
 
 Thanks for your interest and ability to attend the upcoming workshop.
 We have noted that you have requested travel support for the meeting.
-Here are our current requirements for travel support:
+Here are our current requirements for travel support: 
 
-1. Right now we will provide $285/night for 2 nights hotel stay in NYC area
-(we are looking to NSF to see if we can get a supplement to expand this, but
-it’s not here yet)
-2. Right now we can cover up to $680 airfare to NYC for the meeting
 
-Both reimbursements above will be reimbursements in which you submit
-your airline receipts and hotel receipts to USC and we will reimburse
-you. Please submit your reimbursement request to Daisy Tang <daisy.tang@usc.edu>
-and copy nsfdatavis@gmail.com on the email with the subject line:
-[NSF DataViz Reimbursement Request] and please provide your receipts
-either in scanned form/PDF or via snail mail to:
+1. Right now we will provide $285/night for 2 nights hotel stay in NYC area (we
+are looking to NSF to see if we can get a supplement to expand this,
+but it’s not here yet) Three hotel options that offer a
+discounted/corporate rate for those affiliated with The New School
+University are below. For hotel reservation questions please contact
+Katie Wanner <wannk858@newschool.edu> Holiday Inn Manhattan Chelsea
+<http://www.hidowntown-nyc.com/> $289.00 - $309.00 The reservations
+department 212-430-8500 callers must advise they are with the New
+School and request the New School corporate rate.
 
-<insert details here>
+
+Marcel at Gramercy <http://www.hotelmarcelnewyork.com/> $329 The
+reservations department 1-888-664-6835 callers must advise they are
+with the New School and request the New School corporate rate.
+
+The Washington Square Hotel <http://www.wshotel.com/> $263.00 -
+361.00 The reservations department 212-777-9515 callers must advise
+they are with the New School and request the New School corporate
+rate.  
+
+2. Right now we can cover up to $680 airfare to NYC for the
+meeting Both reimbursements above will be reimbursements in which
+you submit your airline receipts and hotel receipts to USC and we
+will reimburse you. Please submit your reimbursement request to
+Daisy Tang <daisy.tang@usc.edu> and copy nsfdatavis@gmail.com on
+the email with the subject line: [NSF DataViz Reimbursement Request].
+
+Please note the following:
+
+- Domestic flights must be purchased in accordance to the Fly America
+Act guidelines in which an U.S. Flag/American Air carrier (ie:
+Southwest, Delta, etc) must used.
+
+- International flights are subject to the same guidelines with the
+follow exceptions:
+  1. Airline is part of “Open Skies” Agreement 
+  2. Involuntary Rerouting 
+  3.  Travel To and From the U.S. on non-European Community
+  Airlines
+  4. Travel Between Points Outside the U.S. on non-European Community
+Airlines 
+  5. Short Distance Travel
+
+Additional information are provided in the below link:
+http://www.nsf.gov/pubs/policydocs/pappguide/nsf14001/aag_6.jsp#VIG1
+
+Both hotel and flight will be reimbursed to you after you submit
+both (hotel and airline) receipts to USC. Please submit a scanned
+copy/pdf of the receipts to Daisy Tang (daisy.tang@usc.edu) and
+copy nsfdatavis@gmail.com and note on the subject line: [NSF Data
+Viz Reimbursement Request]. Receipts can also be mailed to:
+
+Daisy Tang 
+3737 Watt Way PHE 306 
+Los Angeles, CA 90089
+
+In addition, please provide the following information: Last Name
+First Name Address City & State Postal Code (9 digits)
+
+Please be sure to keep a copy for your records.
 
 Thank you and we look forward to your participantion at the workshop.
 
-Cheers,
-Chris Mattmann
-(on behalf of the Organizing and Program Committee)
+Cheers, 
+Chris Mattmann (on behalf of the Organizing and Program
+Committee)
+
