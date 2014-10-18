@@ -1,0 +1,104 @@
+Dear NSF DataViz Hackathon for Polar CyberInfrastructure Participants,
+
+Thank you for your patience as the meeting organization has really
+been coming together!
+
+We have just emailed today information to those that requested
+travel support for the meeting - so if you did request support and
+haven¹t received our contact, please do let us know.
+
+The meeting is now 18 days away and will be here before you know
+it!
+
+The logistics are really coming together on the website:
+
+http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/
+
+New information available:
+
+1. Suggested hotel logistics (use information to book your hotel
+to get New School¹s rate) 
+2. Parking information and information
+on how to get to New school 
+3. A draft agenda (that will be updated
+likely a few times over the next week or so) 
+4. Proposed sessions
+are coming in (more on this later!) and there is information on the
+website for how you should submit a session.
+
+We are asking everyone on this list to *please confirm no later
+than Monday October 20th, 2014* your participation in this meeting.
+You can do so simply by sending an email to nsfdatavis@gmail.com
+with the subject line:
+
+[NSF DataViz Hackathon] Confirm participation of <Your First Name
+Your Last Name> where <Your First Name Your Last Name> if you were
+me would be Chris Mattmann and the full subject line would be:
+
+[NSF DataViz Hackathon] Confirm participation of Chris Mattmann
+
+
+We would like to publish a list of participants on the website by
+Monday and we require your confirmation before publishing that list.
+
+Speaking of sessions, here¹s how you can get involved!
+
+0. Register for Github and get an account if you don¹t already have
+one: https://github.com/join
+
+1. If you have data, code, or a visualization (or some subset of
+those three), please first read the sessions already present. They
+are visible on the website under the heading ³Sessions², which you
+can find from the left hand navigation bar (click on the 3 stacked
+line bars in the upper left of the page to get the menu, then click
+on Sessions). If your idea falls under one of the existing sessions,
+please start commenting and interacting there. The organizers and
+leads will appreciate your contributions and ideas. We¹ll use this
+both leading up to; during; and after the workshop to stay in touch.
+If you don¹t see a session there, please see these instructions for
+submitting a new session:
+https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/wiki
+
+
+2. Begin collaborating with your other participants in the proposed
+session. Expose your data to them. Discuss what you are going to
+visualize.  Talk about the technologies and tools. All of these
+things will be your interaction points and will help to ensure there
+is a clear and well defined goal when you guys hit the ground running
+at the hackathon in a few weeks in NYC. If you aren¹t sure what to
+do, comment that.  If you need one of the other participants to
+check your code out, link it to them. Some of the existing sessions
+are already talking about and sharing data as well.
+
+3. Get social - use Twitter and Hash Tag #nsfpolardatavis to start
+tweeting to your network to get people excited and commenting about
+the event.  Talk about it on Facebook or Instagram or Google Plus.
+Jump into IRC on irc://irc.freenode.net/#nsfpolardatavis and start
+meeting some of the folks you are going to be hacking and data-vizzing
+with.  Instructions for using IRC are here:
+https://meta.wikimedia.org/wiki/IRC/Instructions
+
+
+4. Show up to the workshop ready to get a little technical, but to
+also provide key science input into the meeting. This hackathon was
+envisioned as a meeting of the minds between CI people and Polar
+people, and is a meant as one of the natural follow ons from last
+year¹s very successful NSF Polar CyberInfrastructure workshop at
+the Polar Geospatial Center. In addition, we are drawing and borrowing
+from experience at the NSF funded Open Science Codefest and other
+recent hackathon activities that we have been organized in. The
+more you put in the more we all will collectively get out of this.
+
+Finally please keep watching the website and comment if there is
+any question that you aren¹t sure of, or if you simply want to reach
+out. Github is our first place, or you may also email any of the
+organizing committee, myself, and/or use one of the many other
+communication mediums (Twitter, IRC, etc.)
+
+Thank you and we will be providing regular information updates as
+they are available. Thank you all and looking forward to a successful
+workshop!
+
+Cheers, 
+Chris 
+(on behalf of the organizing committee)
