@@ -35,3 +35,13 @@ challenges of visualizing Polar datasets; (3) package, deliver, and
 make available the outcomes of the workshop via a public website;
 and (4) provide input to the NSF Polar CyberInfrastructure program
 officer through a final report.
+
+More information about the workshop is available via the hackathon
+website:
+
+http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/
+
+and also by contacting the PI, Dr. Chris A. Mattmann <mattmann@usc.edu>,
+or by Parsons contacts Ms. Katie Wanner <wannk858@newschool.edu> or Mr.
+Jihoon Kang <kangj01@newschool.edu> (Acting Director, Parsons School
+for Information Mapping).
