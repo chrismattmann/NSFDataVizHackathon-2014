@@ -1,0 +1,33 @@
+Dear <Keynote Person>,
+
+<Person> suggested I get in touch with you. I’m organizing an NSF
+sponsored workshop for DataViz hacking in the Polar CyberInfrastructure
+domain, funded by Dr. Marco Tedesco, the NSF program manager. I’m CC’ing
+him and some members of our organizing committee on this email.
+
+Would you be interested in giving a keynote talk at the meeting?
+It takes place November 3-4, 2014 (yes a few weeks away!) at Parsons
+New School for Design.
+
+I’m thinking something like 25-30 mins, and then maybe 5-10 mins
+for question and answer? Would that be something you are interested in?
+We have a website here with more information about the workshop:
+
+http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/
+
+The TL;DR of it: the workshop will bring together CyberInfrastructure (CI)
+people, Polar people, data visualization people, and we are using Github
+to organize the whole thing leading up to, during, and after the workshop.
+The code will be Apache Licensed, version 2 (“ALv2”), along with the 
+produced visualizations, and the data used. All of it will remain open
+and the hacking will produce results that will serve as “recipes” or cook-books
+for the NSF to look at in terms of what types of technologies, approaches,
+and philosophies it should be funding in this area. It will also be a 
+great opportunity to meet people and network. The setting is intimate,
+and New School is amazing and a great venue. 
+
+Please let me know what you think. Apologies for the short notice and
+thanks for replying as soon as you can.
+
+Cheers,
+Chris
