@@ -1,40 +1,32 @@
-Tom	Kurkowski
-Alex	Boghosian
-Ken	Mankoff
-Zhangfan	Xing
-Nicholas	Skytland
-Eric		Nienhouse
-David 		Reagan
-Kanchana	Welagedara
-Aaron		Presnall
-Zoran		Hrncic
-Alek		Petty
-Yuan 		Ho
-Lewis John	McGibbney
-Shannon		Vossepoel
-Jeffrey		Schmaltz
-Ryan		Boller
-David 		Reusch
-Tyler		Palsulich
-Cole		Kelleher
-Carol		Costanza
-Rebecca		Pincus
-Paul		Ramirez
-Maziyar		Boustani
-Chalalai	Chaihirunkarn
-Dayne		Broderson
-Zhong 		Liu
-Mia 		Bennett
-Allen 		Pope
-Richard 	Knepper
-Steve		Tanner
-Lukasz		Malarzewski
-John		Clyne
-Rachel 		Obbard
-Martin		Lehmann
-Sylvia		Andreea Dragomir
-Saskia		van Manen
-Daniel		Oostra
-Jesse		Johnson
-Curtis		Lisle
-Bruce		Caron
+David	Reagan	Indiana University
+Lewis John	McGibbney	NASA JPL
+Jeffrey		Schmaltz	NASA GSFC
+Ryan		Boller		NASA GSFC
+Tyler		Palsulich	NYU
+Paul		Ramirez		NASA JPL
+Maziyar		Boustani	NASA JPL
+Chalalai	Chaihirunkarn	CMU
+WenWen		Li		ASU
+Jeremiah	Dabney		University of Alaska, Fairbanks
+Matthew		Savoie		NSIDC
+Justin		Paul-Peters	Indiana University
+John		Morton		Lamont-Doherty
+Suzanne		Carbotte	Lamont-Doherty
+Christopher	Sweeney		Us Coast Guard Academy
+Carol		Costanza	University of Wisconsin-Madison
+Aaron		Presnall	Jefferson Institute
+Stephen		Diggs		Scripps/UCSD
+Kanchana	Welagedara	Computer Society of Sri Lanka/Apache Software Foundation
+Zoran		Hrncic		Jefferson Institute
+Mia 		Bennett		UCLA
+Allen 		Pope		NSIDC
+Scott		Pearse		NCAR
+Rachel 		Obbard		Dartmouth
+Martin		Lehmann		University of Aalborg
+Sylvia		Andreea Dragomir	   University of Aalborg
+Saskia		van Manen		   Open University, UK
+Jesse		Johnson			   University of Montana
+Curtis		Lisle			   KnowledgeVis
+Yuan 		Ho			   Unidata/UCAR
+Bruce		Caron			   New Media Studio/UCSB
+Geetha		Ratnam			   Scripps/UCSD
