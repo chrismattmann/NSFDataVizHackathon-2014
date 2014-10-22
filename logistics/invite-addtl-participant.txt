@@ -1,0 +1,28 @@
+Dear <Participant>,
+
+You have been selected to participate in the NSF DataViz Hackathon
+for Polar CyberInfrastructure to be held at the Parsons New School
+for Design in New York City, NY, November 3-4, 2014.
+
+Here are the details:
+
+1. Invite Email:
+https://github.com/chrismattmann/NSFDataVizHackathon-2014/blob/master/logistics/invite.txt
+2. More Info/Logistics Email:
+https://github.com/chrismattmann/NSFDataVizHackathon-2014/blob/master/logistics/info1email.txt
+3. Our Web site:
+http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/
+4. Our Github site (for proposing new sessions, interacting with
+existing sessions and collaborating leading up to, during and
+after the workshop)
+https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/issues/
+
+If you are both keen and able to attend, please confirm your
+participation in the workshop and I will add you to the confirmed
+attendees list. Thanks and please let me know ASAP!
+
+Thanks!
+
+Cheers,
+Chris 
+(on behalf of the Organizing Committee)
