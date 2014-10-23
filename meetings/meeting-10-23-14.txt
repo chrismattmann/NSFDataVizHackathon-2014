@@ -1,0 +1,60 @@
+Attendees:
+
+Chris Mattmann
+Jihoon Kang
+Saskia van Manen
+Katie Wanner
+Allen Pope
+Aaron Hill
+Marco Tedesco
+Paul Ramirez
+Suzanne Carbotte
+
+Agenda:
+(Open Issues in Github:
+https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/issues)
+
+1. Github accounts, starring the repo and sharing news (Chris/All)
+   - Chris mentions to everyone to join Github and star the repo
+
+2. Current status of confirmed participants (Chris)
+   - 93% confirmation
+   - 37/40 
+   - Allen to reach out to 
+
+3. Efforts to recruit Keynote speakers (Chris)
+4. Agenda is coming together - making a handout (Katie)
+5. Videotaping participants request (Katie/Chris/Marco)
+   - no audio 
+   - no brief interviews in other rooms
+   - no survey
+6. Agenda update
+   - Move Marco to Day 1 (Chris)
+   - Add in Keynote slots at beginning of days (25-30 mins, plus time for
+questions)
+
+7. Website improvements and updates (Chris/Mazi/Katie)
+   - Will update participants list (Chris)
+   - Jihoon, Katie, Aaron, working with Mazi to make the website slicker
+   - make a pamphlet that has the sessions (lock down input by next Wednesday)
+     - Jihoon and PIIM will scope this
+   - get content for poster NLT next Wednesday
+
+8. Amazon support (Chris)
+    - Amazon will give us credits
+    - EC2 and S3 time
+
+9. Survey Poll after the meeting (Saskia/Chris)
+   - anonymous poll
+   - what do we want to ask participants
+   - what do we want to gauge
+   - what do we want to give to NSF?
+   - add it to the Github issue: 
+
+10. AOB
+  - Aaron wonders if it makes sense for artists and designers to stop by
+   and help contribute to the process (small groups) - yes this makes sense
+
+  - Saskia is working on a article in the Parsons Journal for Information
+    Mapping about the workshop. Both Chris and Marco express interest in 
+    contributing to the article. 
