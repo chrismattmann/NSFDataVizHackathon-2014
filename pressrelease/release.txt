@@ -1,6 +1,6 @@
 The University of Southern California will host a “DataViz Hackathon
 for Polar CyberInfrastructure” sponsored by the U.S. National Science
-Foundation, and Amazon Web Services, in coordination with the Parsons
+Foundation, and Amazon Web Services, in coordination with Parsons The
 New School for Design who will provide a venue for the workshop in
 New York City on November 3-4, 2014.
 
@@ -43,5 +43,5 @@ http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/
 
 and also by contacting the PI, Dr. Chris A. Mattmann <mattmann@usc.edu>,
 or by Parsons contacts Ms. Katie Wanner <wannk858@newschool.edu> or Mr.
-Jihoon Kang <kangj01@newschool.edu> (Acting Director, Parsons School
+Jihoon Kang <kangj01@newschool.edu> (Associate Director, Parsons Institute
 for Information Mapping).
