@@ -1,32 +1,37 @@
-David	Reagan	Indiana University
-Lewis John	McGibbney	NASA JPL
-Jeffrey		Schmaltz	NASA GSFC
-Ryan		Boller		NASA GSFC
-Tyler		Palsulich	NYU
-Paul		Ramirez		NASA JPL
-Maziyar		Boustani	NASA JPL
-Chalalai	Chaihirunkarn	CMU
-WenWen		Li		ASU
-Jeremiah	Dabney		University of Alaska, Fairbanks
-Matthew		Savoie		NSIDC
-Justin		Paul-Peters	Indiana University
-John		Morton		Lamont-Doherty
-Suzanne		Carbotte	Lamont-Doherty
-Christopher	Sweeney		Us Coast Guard Academy
-Carol		Costanza	University of Wisconsin-Madison
-Aaron		Presnall	Jefferson Institute
-Stephen		Diggs		Scripps/UCSD
-Kanchana	Welagedara	Computer Society of Sri Lanka/Apache Software Foundation
-Zoran		Hrncic		Jefferson Institute
-Mia 		Bennett		UCLA
-Allen 		Pope		NSIDC
-Scott		Pearse		NCAR
-Rachel 		Obbard		Dartmouth
-Martin		Lehmann		University of Aalborg
-Sylvia		Andreea Dragomir	   University of Aalborg
-Saskia		van Manen		   Open University, UK
-Jesse		Johnson			   University of Montana
-Curtis		Lisle			   KnowledgeVis
-Yuan 		Ho			   Unidata/UCAR
-Bruce		Caron			   New Media Studio/UCSB
-Geetha		Ratnam			   Scripps/UCSD
+David   Reagan  Indiana University
+Lewis John      McGibbney       NASA JPL
+Jeffrey         Schmaltz        NASA GSFC
+Ryan            Boller          NASA GSFC
+Tyler           Palsulich       NYU
+Paul            Ramirez         NASA JPL
+Maziyar         Boustani        NASA JPL
+Chalalai        Chaihirunkarn   CMU
+WenWen          Li              ASU
+Jeremiah        Dabney          University of Alaska, Fairbanks
+Matthew         Savoie          NSIDC
+Justin          Paul-Peters     Indiana University
+John            Morton          Lamont-Doherty
+Suzanne         Carbotte        Lamont-Doherty
+Christopher     Sweeney         Us Coast Guard Academy
+Carol           Costanza        University of Wisconsin-Madison
+Aaron           Presnall        Jefferson Institute
+Stephen         Diggs           Scripps/UCSD
+Kanchana        Welagedara      Computer Society of Sri Lanka/Apache Software Foundation
+Zoran           Hrncic          Jefferson Institute
+Mia             Bennett         UCLA
+Allen           Pope            NSIDC
+Scott           Pearse          NCAR
+Rachel          Obbard          Dartmouth
+Martin          Lehmann         University of Aalborg
+Saskia          van Manen       Open University, UK
+Jesse           Johnson         University of Montana
+Curtis          Lisle           KnowledgeVis
+Yuan            Ho              Unidata/UCAR
+Bruce           Caron           New Media Studio/UCSB
+Geetha          Ratnam          Scripps/UCSD
+Eric            Nienhouse       NCAR
+Christine       Laney           UTEP
+Alex            Boghosian       Lamont-Doherty
+Yuan            Ho              UCAR
+Indrani         Das             Lamont-Doherty
+S. McKenzie     Skiles          UCLA
