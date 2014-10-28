@@ -1,0 +1,51 @@
+Dear NSF DataViz Hackathon for Polar CyberInfrastructure participants,
+
+Hope you are doing well! The workshop is a little less than a week
+away at this point and I wanted to remind everyone of the following
+important announcements:
+
+1. Please note that the final day to propose sessions is tomorrow,
+Wednesday, October 29, 2014. We need to close off the session
+proposals on Github at that point in order to print a schedule and
+a welcome packet for everyone.
+
+2. Please check back on the website often as it is undergoing some
+updates.  In particular, tomorrow, Wednesday will also include a
+major update of the agenda to include two talks from visionaries
+in the DataViz community to help set the tone on both days, along
+with the finalized set of sessions.
+
+3. Please continue to tweet to #nsfpolardatavis and if you haven’t
+starred the repo on Github yet, we would appreciate you starring
+it to help generate buzz and interest. Also if there are mailing
+lists that you can share the website too and point remote people
+at the Github, that is also an option for remote participation. I
+will be sending announcements later today to CRYOLIST, various Earth
+Science Information Partners (ESIP) Federation lists, the NASA Earth
+Science Data System WG lists, and some Apache lists to help generate
+remote participation interest via Github, but if you can also find
+the time to generate buzz that would be great.
+
+4. I can now confirm that Amazon Web Services is donating credits
+for the event. It is our intention to have virtual machines available
+for the participants to log on to over WiFi to perform computation,
+visualization, and to store their data. Amazon and the leadership
+of the workshop and NSF are also going to discuss a plan to host
+the data results and viz from the workshop.  Code will continue on
+in the Github repo.
+
+5. Speaking of code if you have any sample code or data sets to
+upload or point at in Github, I’ve created a folder in the repository:
+
+https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/tree/gh-pages/code/
+
+I will be creating folders there for all of the sessions tomorrow
+to upload code and results.
+
+Thank you for listening and please if you have any questions, please
+feel free to contact me or any of the organizing committee (who are
+listed and clickable on the website).
+
+Thank you!
+
+Cheers, Chris
