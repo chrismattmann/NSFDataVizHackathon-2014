@@ -1,0 +1,26 @@
+Attendees:
+
+Chris Mattmann
+Allen Pope
+Aaron Hill
+Katie Wanner
+Jihoon Kang
+Suzanne Carbotte
+Paul Ramirez
+Jonathan Pundsack
+
+Call In Info:
+Meeting ID:1112
+MeetingPlace Phone Number 818-354-3434
+Toll Free Number1-866-328-8761
+
+Agenda:
+(Open Issues in Github:
+https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/issues)
+
+1. Session Status - Chris/All
+2. Logistics Status - Katie/All
+3. Amazon Status - Chris
+4. Website Status - Chris
+5. Press Status - Chris
+6. Adjourn
