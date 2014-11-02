@@ -1,0 +1,34 @@
+Call for Remote Participation
+
+The NSF DataViz Hackathon for Polar CyberInfrastructure will bring
+together Polar researchers, Cyber Infrastructure experts, Data
+Visualiation experts, and members of the community interested in
+connecting technology, science and communication.
+
+The Hackathon website is located at:
+
+http://nsf-polar-cyberinfrastructure.github.io/datavis-hackathon/
+
+The Hackathon will take place tomorrow, Monday, November 3, 2014
+and Tuesday November 4, 2014, beginning at 9am ET and located at:
+
+The Orozco Room Parsons - The New School 66 W 12th St, 7th floor
+(Between Fifth Avenue and Sixth Avenue) New York, NY 10011
+
+Though onsite attendance is closed, we are offering remote participation
+in the meeting via our Github repository:
+
+https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon
+
+You can participate in the meeting by reviewing, commenting and
+providing your feedback on our current sessions, located at:
+
+https://github.com/NSF-Polar-Cyberinfrastructure/datavis-hackathon/issues
+
+Please note that a Github account is required to participate.
+
+We look forward to your remote participation and to the hackathon
+and its results!
+
+Cheers, 
+Chris Mattmann
