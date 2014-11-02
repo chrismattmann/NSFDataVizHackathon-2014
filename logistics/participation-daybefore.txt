@@ -1,3 +1,6 @@
+Subject: NSF DataViz Hackathon for Polar CyberInfrastructure: New
+York, NY 11/3/2014 - 11/4/2014 Call for Remote Participation
+
 Call for Remote Participation
 
 The NSF DataViz Hackathon for Polar CyberInfrastructure will bring
@@ -30,5 +33,4 @@ Please note that a Github account is required to participate.
 We look forward to your remote participation and to the hackathon
 and its results!
 
-Cheers, 
-Chris Mattmann
+Cheers, Chris Mattmann
